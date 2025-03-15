@@ -1,6 +1,6 @@
 # 🔸 Lokapal | DAO Consulting & Insights 
 
-**Empowering DAOs with secure, sustainable, and effective governance frameworks.**  
+**Empowering DAOs with secure and effective governance.**  
 
 ## 🔸 About Lokapal  
 Lokapal is dedicated to exploring, educating, and consulting on **DAO governance** and **decentralization**. Our work spans research, educational initiatives, and hands-on consulting to help DAOs navigate governance security, decision-making structures, and best practices.  
