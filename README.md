@@ -1,20 +1,50 @@
-# 🔸 Lokapal | DAO Consulting & Insights 
+# 🔸 Lokapal | DAO Insights & Action 
 
 **Empowering DAOs with secure and effective governance.**  
 
 ## 🔸 About Lokapal  
-Lokapal is dedicated to exploring, educating, and consulting on **DAO governance** and **decentralization**. Our work spans research, educational initiatives, and hands-on consulting to help DAOs navigate governance security, decision-making structures, and best practices.  
+**Lokapal is a research-led initiative for DAO design, understanding, and impact.**
 
-🔹 **[Lokapal Consulting](https://lokapal-xyz.github.io/)** – Expert guidance on DAO governance, security, and implementation.  
-🔹 **[Lokapal Education](https://lokapal-xyz.github.io/education/)** – Practical resources, including **HowToDAO**, a comprehensive guide for DAOs.  
-🔹 **[Lokapal Research](https://lokapal-xyz.github.io/research/)** – **DAO Horizons**, deep-diving into DAO structures, governance models, and decentralization theories.  
-🔹 **[Lokapal Foundations](https://lokapal-xyz.github.io/foundations/)** – **Conciliatorics**, exploring the philosophical foundations of decentralization.  
+We believe that decentralization is not just a tool — it's a systemic necessity. Lokapal approaches DAOs as a transformative organizational model, one that requires not only smart tools, but smart thinking.
 
-## 🔸 What We Do  
-🔹 Develop **DAO governance frameworks** and security models.  
-🔹 Publish **research and insights** on decentralized governance.  
-🔹 Provide **educational resources** to help DAOs grow effectively.  
-🔹 Offer **consulting services** for secure and sustainable DAO operations.  
+To meet that challenge, Lokapal bridges theory and practice through two pillars:
+
+---
+
+## 🔹Lokapal Insights  
+**Where ideas take shape.**
+
+[**Lokapal Insights**](https://lokapal-xyz.github.io/en/insights/) is the intellectual backbone of the project. It’s where we investigate, clarify, and communicate the key elements that define DAOs today and tomorrow. This work unfolds across three branches:
+
+🔸 **Lokapal Education: HowToDAO**  
+  A practical, open guide to understanding DAOs — designed for both newcomers and experienced builders.  
+
+🔸 **Lokapal Research: DAO Horizons**  
+  Analytical explorations and innovation frameworks to understand DAO systems and governance patterns.  
+
+🔸 **Lokapal Foundations: Conciliatorics**  
+  The philosophical root of the project — reconciling decentralization with broader systemic thinking.
+
+---
+
+## 🔹Lokapal Action  
+**Where ideas are put to work.**
+
+[**Lokapal Action**](https://lokapal-xyz.github.io/en/action/) is the application of our insights. This is where research, education, and philosophy become real-world contributions to DAO ecosystems. It unfolds through four concrete modes of engagement:
+
+🔸 **DAO Spotlight**  
+  Deep dives into specific DAOs — part research, part reflection, part conversation starter.  
+
+🔸 **DAO Digest**  
+  Curated updates from across the DAO ecosystem — concise, relevant, and designed for those who want to stay informed.  
+
+🔸 **DAO Partnerships**  
+  Long-term collaborations with protocols and communities to support their growth and engagement.  
+
+🔸 **DAO Advisory**  
+  Focused, event-based or ongoing consulting — for DAOs navigating complexity, conflict, or growth.
+
+---
 
 ## 🔸 Connect with Lokapal  
 🔹 Website: **[Lokapal](https://lokapal-xyz.github.io/)**  
