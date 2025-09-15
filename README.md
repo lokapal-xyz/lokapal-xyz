@@ -55,6 +55,6 @@ Let's see where our paths might align.
 
 - Discord: **lokapal.xyz**
 
-- LinkedIn: **[ricardo-mauro-pintos](https://www.linkedin.com/in/ricardopintos/)**
+- LinkedIn: **[Ricardo Pintos](https://www.linkedin.com/in/ricardopintos/)**
 
 - GitHub: **[lokapal-xyz](https://github.com/lokapal-xyz)** 
