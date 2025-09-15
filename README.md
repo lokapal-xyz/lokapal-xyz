@@ -1,24 +1,26 @@
 # About Us 
 
-**Lokapal is a content platform for DAO design, understanding, and impact.**
+**Lokapal is a content platform for web3 design, understanding, and impact.**
 
-We believe that decentralization is not just a tool — it's a systemic necessity. Lokapal approaches DAOs as a transformative organizational model, one that requires not only smart tools, but smart thinking.
+We believe that decentralization is not just a mechanism — it's a systemic necessity. Lokapal approaches web3 as a transformative paradigm, one that requires not only smart tools, but comprehensive thinking.
+
+---
 
 ## Lokapal Projects
 
 ### Devotion  
-**A flagship Web3 series exploring the culture, stories, and meaning of DAOs.**  
-Devotion is Lokapal's primary creative project — a serialized Web3-native publication that blends narrative, research, and cultural reflection. It aims to capture not only the technical dimensions of DAOs, but also their human, ethical, and symbolic significance. Through its chapters, Devotion explores how decentralized governance intersects with identity, community, and the future of collective action.
+**A crypto novel exploring the potential, struggles, and meaning of governance.**  
+Devotion is Lokapal's primary creative project — a serialized Web3-native publication that blends narrative, research, and cultural reflection. It aims to capture not only the technical dimensions of governance, but also their human, ethical, and symbolic significance. Through its chapters, Devotion explores how decentralization intersects with identity, community, and the future of collective action.
 
 
 ### HowToDAO
-**A structured educational resource for DAO governance.**  
-HowToDAO is dedicated to documenting, categorizing, and structuring knowledge about decentralized governance. It serves as a practical guide to security, decision-making, and organizational best practices.
+**A structured educational resource for DAO participation.**  
+HowToDAO is dedicated to documenting, categorizing, and structuring knowledge about decentralized governance. It serves as a practical guide to functionality, decision-making, security and organizational best practices.
 
 
-### DAO Horizons
-**Research on the frontiers of DAO systems and design.**  
-DAO Horizons is the research publication arm of Lokapal, focusing on system theory and philosophy as they relate to DAOs and decentralized governance. 
+### Thoughtchain
+**Research on the frontiers of web3 systems and design.**  
+Thoughtchain is the essays platform of Lokapal, including research articles, web3 highlights, educational tools, lore expansions, philosophical explorations, and Lokapal updates.
 
 
 ### Conciliatorics  
@@ -29,7 +31,7 @@ Conciliatorics is the foundational philosophical work behind Lokapal, the result
 
 ## Partnerships and Support
 
-Lokapal is committed to building in the open and collaborating with projects, DAOs, and communities that share our vision of decentralized governance.  
+Lokapal is committed to building in the open and collaborating with projects and communities that share our vision of web3 growth.  
 
 At this stage, we are an independent initiative — fully self-funded and focused on creating meaningful, high-trust content.  
 
@@ -39,11 +41,11 @@ In the future, this section will feature our partnerships, collaborations, and g
 
 ## Contact Us
 
-Whether you are exploring ideas, building a project, or simply curious about DAOs, feel free to reach out. Lokapal welcomes collaboration, questions, and conversations of all kinds.
+Whether you are exploring ideas, building a project, or simply curious about web3, feel free to reach out. Lokapal welcomes collaboration, questions, and conversations of all kinds.
 
 Let's see where our paths might align.
 
-- Website: **[lokapal.xyz](https://lokapal.xyz/)**
+- Website: **[lokapal.xyz](https://www.lokapal.xyz/)**
 
 - Email: **[lokapal@proton.me](mailto:lokapal@proton.me)**
 
@@ -53,6 +55,6 @@ Let's see where our paths might align.
 
 - Discord: **lokapal.xyz**
 
-- LinkedIn: **[ricardo-mauro-pintos](https://www.linkedin.com/in/ricardo-mauro-pintos/)**
+- LinkedIn: **[ricardo-mauro-pintos](https://www.linkedin.com/in/ricardopintos/)**
 
 - GitHub: **[lokapal-xyz](https://github.com/lokapal-xyz)** 
