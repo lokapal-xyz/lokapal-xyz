@@ -8,9 +8,9 @@ We believe that decentralization is not just a mechanism — it's a systemic nec
 
 ## Lokapal Projects
 
-### Devotion  
+### Fealty  
 **A crypto novel exploring the potential, struggles, and meaning of governance.**  
-Devotion is Lokapal's primary creative project — a serialized Web3-native publication that blends narrative, research, and cultural reflection. It aims to capture not only the technical dimensions of governance, but also their human, ethical, and symbolic significance. Through its chapters, Devotion explores how decentralization intersects with identity, community, and the future of collective action.
+Fealty is Lokapal's primary creative project — a serialized Web3-native publication that blends narrative, research, and cultural reflection. It aims to capture not only the technical dimensions of governance, but also their human, ethical, and symbolic significance. Through its chapters, Fealty explores how decentralization intersects with identity, community, and the future of collective action.
 
 
 ### HowToDAO
